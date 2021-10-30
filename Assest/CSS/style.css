@@ -1,0 +1,84 @@
+body, html{
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.invisible {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    display: none;
+}
+.Settings, #pomodoro{
+    margin: auto;
+    text-align: center;
+}
+.body{
+    margin: auto;
+    width: 100%;
+}
+#pomodoro{
+    cursor: default;
+    width: 100%;
+    margin: 0;
+}
+p, h1{
+    text-align: center;
+}
+.btn{
+    cursor: pointer;
+    width: 100%;
+    height:65px;
+    margin: 0;   
+    text-align: center; 
+    line-height: 65px;
+    font-size: 1.5rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: 0px black solid;
+    color: white;
+}
+input[type=number] { 
+    -moz-appearance: textfield;
+    appearance: textfield;
+    margin: 0; 
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+      -webkit-appearance: none; 
+      margin: 0; 
+}  
+input[type=number] {
+    font-size: 1rem;
+    line-height: 2rem;
+    text-align: center;
+    font-weight: bold;
+    width: 100px;
+    border:2px black solid;
+    border-radius: 10px;
+}
+input[type=number]:focus {
+    outline: none;
+    border:2px black solid;
+    border-radius: 10px;
+}
+select {
+    font-size: 1rem;
+    line-height: 2rem;
+    text-align: center;
+    font-weight: bold;
+    width: 100px;
+    border:2px black solid;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #fff;
+}
+#alarm{
+    width: 100%;
+}
+.btn-primary{
+    background-color: #33B4F5;
+}
+.btn-setting{
+    background-color: #F13B3A;
+}

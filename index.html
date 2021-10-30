@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="Assest/CSS/style.css">
+    <title>Pomodoro</title>
+</head>
+<body>
+<div class="body">
+<button id="setbtn" class="btn btn-setting"> Settings </button>
+<div id="set" class="Settings invisible">
+
+<p> Pomodoro </p>
+<input id="pomodoroMin" type="number" max="59" value="25">
+<input id="pomodoroSec" type="number" max="59" value="0">
+
+<p> Short Breake </p>
+<input id="SBreakeMin" type="number" max="59" value="5">
+<input id="SBreakeSec" type="number" max="59" value="0">
+
+<p> Tour </p>
+<input id="tour" type="number" min="1" max="5" value="4">
+<p> Long Breake </p>
+<input id="LBreakeMin" type="number" max="59" value="40">
+<input id="LBreakeSec" type="number" max="59" value="0">
+<p><label for="rselect">Alarm:</label></p>
+<select id="rselect">
+    <option value="a1">alarm 1</option>
+    <option value="a2">alarm 2</option>
+    <option value="a3">alarm 3</option>
+    <option value="a4">alarm 4</option>
+    <option value="a5">alarm 5</option>
+</select>
+
+<button id="sett" class="btn btn-primary"> Set </button>
+</div>
+<div id="pomodoro">
+    <p>Pomodoro</p>
+    <h1 id="ptext"></h1>
+    <p>Short Breake</p>
+    <h1 id="SBtext"></h1>
+    <p>Tour</p>
+    <h1 id="Tourtext"></h1>
+    <p>Long Breake</p>
+    <h1 id="LBreaketext"></h1>
+<button id="startbtn" class="btn btn-primary"> Start </button>
+</div>
+<audio id="alarm" controls></audio>
+</div>
+    <script src="Assest/JS/script.js"></script>
+</body>
+</html>
