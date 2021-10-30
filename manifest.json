@@ -1,11 +1,11 @@
 {
   "name": "Pomodoro",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "manifest_version": 2,
 
   "icons": {
     "48": "Assest/IMG/logo48.png",
-    "96": "Assest/IMG/logo92.png"
+    "96": "Assest/IMG/logo96.png"
   },
 
   "sidebar_action": {
