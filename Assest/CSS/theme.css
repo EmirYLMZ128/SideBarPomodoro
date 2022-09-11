@@ -1,0 +1,43 @@
+.body-dark{
+    background-color: #2C3639;
+    color: #FDFAF6;
+}
+.input-number-dark {
+    color: #FDFAF6;
+    background-color: #2C3639;
+    border:2px #FDFAF6 solid;
+}
+.input-number-dark :focus {
+    color: #FDFAF6;
+    background-color: #2C3639;
+    border:2px #FDFAF6 solid;
+}
+.select-dark {
+    border:2px #FDFAF6 solid;
+    background-color: #2C3639;
+    color: #FDFAF6;
+}
+.theme-btn-light{
+    background-color: #FDFAF6;
+    border: 2px #2C3639 solid;
+}
+.theme-btn-light svg{
+    color: #2C3639;
+}
+.theme-btn-dark{
+    background-color: #2C3639;
+    border: 2px #FDFAF6 solid;
+}
+.theme-btn-dark svg{
+    color: #FDFAF6;
+}
+.input-number-light {
+    border:2px #2C3639 solid;
+}
+.input-number-light :focus {
+    border:2px #2C3639 solid;
+}
+.select-light {
+    border:2px #2C3639 solid;
+    background-color: white;
+}
