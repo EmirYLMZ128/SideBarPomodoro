@@ -17,7 +17,7 @@
 
 
 ### Images
-<div style="text-align:center">
+<p style="text-align:center">
 <br/>
   <img src="https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/SS/Light1.jpg">
   <img src="https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/SS/Dark1.jpg">
@@ -27,4 +27,4 @@
 <br/>
   <img src="https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/SS/pop-upDark.jpg">
   <img src="https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/SS/pop-upLight.jpg">
-</div>
+</p>
