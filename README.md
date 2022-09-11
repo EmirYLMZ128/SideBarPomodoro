@@ -1,5 +1,6 @@
 # Pomodoro Clock
 
+  <img src="https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/SS/Light1.jpg">
 ![](https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/Assest/IMG/logo96.png)
 
 ![](https://img.shields.io/github/stars/EmirYLMZ128/SideBarPomodoro.svg) ![](https://img.shields.io/github/forks/EmirYLMZ128/SideBarPomodoro.svg) ![](https://img.shields.io/github/tag/EmirYLMZ128/SideBarPomodoro.svg) ![](https://img.shields.io/github/release/EmirYLMZ128/SideBarPomodoro.svg) ![](https://img.shields.io/github/issues/EmirYLMZ128/SideBarPomodoro.svg) ![](https://img.shields.io/bower/v/EmirYLMZ128/SideBarPomodoro.svg)
@@ -19,12 +20,12 @@
 ### Images
 <div  align="center">
 <br/>
-  <img src="https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/SS/Light1.jpg">
-  <img src="https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/SS/Dark1.jpg">
+  <img src="/SS/Light1.jpg">
+  <img src="/SS/Dark1.jpg">
 <br/>
-  <img src="https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/SS/Light2.jpg">
-  <img src="https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/SS/Dark2.jpg">
+  <img src="/SS/Light2.jpg">
+  <img src="/SS/Dark2.jpg">
 <br/>
-  <img src="https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/SS/pop-upDark.jpg">
-  <img src="https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/SS/pop-upLight.jpg">
+  <img src="/SS/pop-upDark.jpg">
+  <img src="/SS/pop-upLight.jpg">
 </div>
