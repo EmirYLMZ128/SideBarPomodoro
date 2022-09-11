@@ -18,8 +18,13 @@
 
 ### Images
 <br/>
+
 ![screenshot](https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/SS/Light1.jpg) ![screenshot](https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/SS/Light2.jpg)
+
 <br/>
+
 ![screenshot](https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/SS/Dark1.jpg) ![screenshot](https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/SS/Dark2.jpg)
+
 <br/>
+
 ![screenshot](https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/SS/pop-upDark.jpg) ![screenshot](https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/SS/pop-upLight.jpg)
