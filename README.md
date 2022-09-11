@@ -1,10 +1,9 @@
 # Pomodoro Clock
 <div align="center">
   <img src="Assest/IMG/logo96.png">
+  <br/>
+  <img src="https://img.shields.io/github/stars/EmirYLMZ128/SideBarPomodoro.svg">  <img src="https://img.shields.io/github/tag/EmirYLMZ128/SideBarPomodoro.svg">  <img src="https://img.shields.io/github/issues/EmirYLMZ128/SideBarPomodoro.svg">
 </div>
-
-![](https://img.shields.io/github/stars/EmirYLMZ128/SideBarPomodoro.svg) ![](https://img.shields.io/github/tag/EmirYLMZ128/SideBarPomodoro.svg)  ![](https://img.shields.io/github/issues/EmirYLMZ128/SideBarPomodoro.svg)
-
 ### Features
 
 - Pop-up pomodoro clock
