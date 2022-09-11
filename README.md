@@ -3,7 +3,7 @@
   <img src="Assest/IMG/logo96.png">
 </div>
 
-![](https://img.shields.io/github/stars/EmirYLMZ128/SideBarPomodoro.svg) ![](https://img.shields.io/github/forks/EmirYLMZ128/SideBarPomodoro.svg) ![](https://img.shields.io/github/tag/EmirYLMZ128/SideBarPomodoro.svg) ![](https://img.shields.io/github/release/EmirYLMZ128/SideBarPomodoro.svg) ![](https://img.shields.io/github/issues/EmirYLMZ128/SideBarPomodoro.svg) ![](https://img.shields.io/bower/v/EmirYLMZ128/SideBarPomodoro.svg)
+![](https://img.shields.io/github/stars/EmirYLMZ128/SideBarPomodoro.svg) ![](https://img.shields.io/github/tag/EmirYLMZ128/SideBarPomodoro.svg)  ![](https://img.shields.io/github/issues/EmirYLMZ128/SideBarPomodoro.svg) ![](https://img.shields.io/bower/v/EmirYLMZ128/SideBarPomodoro.svg)
 
 ### Features
 
