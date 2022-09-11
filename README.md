@@ -1,9 +1,9 @@
 # Pomodoro Clock
-
+<div style="text-align:center">
 ![](https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/Assest/IMG/logo96.png)
 
 ![](https://img.shields.io/github/stars/EmirYLMZ128/SideBarPomodoro.svg) ![](https://img.shields.io/github/forks/EmirYLMZ128/SideBarPomodoro.svg) ![](https://img.shields.io/github/tag/EmirYLMZ128/SideBarPomodoro.svg) ![](https://img.shields.io/github/release/EmirYLMZ128/SideBarPomodoro.svg) ![](https://img.shields.io/github/issues/EmirYLMZ128/SideBarPomodoro.svg) ![](https://img.shields.io/bower/v/EmirYLMZ128/SideBarPomodoro.svg)
-
+</div>
 ### Features
 
 - Pop-up pomodoro clock
@@ -17,8 +17,8 @@
 
 
 ### Images
+<div style="text-align:center">
 <br/>
-
 ![screenshot](https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/SS/Light1.jpg) ![screenshot](https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/SS/Dark1.jpg)
 
 <br/>
@@ -28,3 +28,4 @@
 <br/>
 
 ![screenshot](https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/SS/pop-upDark.jpg) ![screenshot](https://raw.githubusercontent.com/EmirYLMZ128/SideBarPomodoro/main/SS/pop-upLight.jpg)
+</div>
