@@ -4,6 +4,7 @@
   <br/>
   <img src="https://img.shields.io/github/stars/EmirYLMZ128/SideBarPomodoro.svg">  <img src="https://img.shields.io/github/tag/EmirYLMZ128/SideBarPomodoro.svg">  <img src="https://img.shields.io/github/issues/EmirYLMZ128/SideBarPomodoro.svg">
 </div>
+
 ### Features
 
 - Pop-up pomodoro clock
